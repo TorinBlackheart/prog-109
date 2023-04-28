@@ -1,0 +1,60 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    color: navy;
+    text-align: center;}
+body {
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgb(255, 229, 80);    
+    background-image: url(https://th.bing.com/th/id/R.2f30c56193910b56c5c908bc69ee0756?rik=HP0cfexPL9DuzQ&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fa%2f4%2f6%2f455866.jpg&ehk=I9ThXioIB9Pk2tr6tVcxN4ClESP%2bMRLjlI3pX%2b3ZQ6M%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;}
+#content {
+    overflow: auto;}
+#nav, #feature, #footer {
+    margin: 1%;}
+.column1 {
+    width: 31.3%;
+    float: left;
+    margin: 1%;
+    background-color: crimson;
+}
+.column2{
+    width: 31.3%;
+    float: left;
+    margin: 1%;
+    background-color: orangered;
+}
+.column3 {
+    width: 31.3%;
+    float: left;
+    margin: 1%;
+    margin-right: 0%;
+    background-color: firebrick;}
+li {
+    display: inline;
+    padding: 0.5em;}
+#nav, #footer {
+    background-color: grey;
+    padding: 0.5em 0;}
+#feature{
+    height: 10em;
+    margin-bottom: 1em;
+    background-color: darkgrey;
+    background-image: url(https://th.bing.com/th/id/R.efdcfe2bdc02ca5c409879bd13a3dca0?rik=wyIufNgVa30BxA&pid=ImgRaw&r=0);
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.article {
+    height: 10em;
+    margin-bottom: 1em;
+    background-color: lightgrey;
+    }
+#footer{
+    background-color: beige;
+}
+h1{
+    font-family:'ElemenzInitialsRegular';
+    font-weight: normal;
+    font-style: normal;
+}
