@@ -1,0 +1,14 @@
+#upLeft, #downLeft{
+    text-align: right;
+    margin-right: -8px;
+}
+#upRight, #downRight{
+    text-align: left;
+    margin-left: -8px;
+}
+#upper{
+    column-count: 2;
+}
+#lower{
+    column-count: 2;
+}
