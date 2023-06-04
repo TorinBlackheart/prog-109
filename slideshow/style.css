@@ -57,3 +57,13 @@ body{
 img{
   width: 100%;
 }
+#footer {
+  border:solid 1px;
+  position:fixed;
+  width: 10%;
+  vertical-align: bottom;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  background-color: burlywood;
+}
