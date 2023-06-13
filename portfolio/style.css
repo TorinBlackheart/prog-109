@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0; 
     background: #eca944;
-    background-image: url(http://3.bp.blogspot.com/-aNRb0w9Uu2E/Uk0w1v9lXjI/AAAAAAAAHrM/RipxfZqlQQ4/s1600/Texture-Backgrounds-Wallpaper-HD.jpg);
+    background-image: url(https://wallpaperaccess.com/full/2622709.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -15,7 +15,9 @@ body {
 
 a { color: #000088; }
 a:hover { color: #880000; }
-
+#errorMessages{
+    color: red;
+}
 #wrap { 
     margin: 40px auto;
     width: 940px;
